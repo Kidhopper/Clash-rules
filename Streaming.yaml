@@ -1,0 +1,71 @@
+payload:
+  # Netflix
+  - DOMAIN-SUFFIX,netflix.com
+  - DOMAIN-SUFFIX,nflxvideo.net
+  - DOMAIN-SUFFIX,nflximg.net
+  - DOMAIN-SUFFIX,nflxso.net
+  - DOMAIN-SUFFIX,nflxext.com
+
+  # YouTube
+  - DOMAIN-SUFFIX,youtube.com
+  - DOMAIN-SUFFIX,googlevideo.com
+  - DOMAIN-SUFFIX,ytimg.com
+
+  # Disney+
+  - DOMAIN-SUFFIX,disneyplus.com
+  - DOMAIN-SUFFIX,disneyplus.com.edgesuite.net
+  - DOMAIN-SUFFIX,bamgrid.com
+
+  # Prime Video
+  - DOMAIN-SUFFIX,primevideo.com
+  - DOMAIN-SUFFIX,amazonvideo.com
+  - DOMAIN-SUFFIX,media-amazon.com
+
+  # HBO Max
+  - DOMAIN-SUFFIX,hbomax.com
+  - DOMAIN-SUFFIX,hbo.com
+
+  # Apple TV+
+  - DOMAIN-SUFFIX,apple.com
+  - DOMAIN-SUFFIX,itunes.apple.com
+  - DOMAIN-SUFFIX,video.apple.com
+
+  # iQIYI
+  - DOMAIN-SUFFIX,iqiyi.com
+  - DOMAIN-SUFFIX,iqiyipic.com
+
+  # Viu
+  - DOMAIN-SUFFIX,viu.com
+
+  # WeTV
+  - DOMAIN-SUFFIX,wetvinfo.com
+  - DOMAIN-SUFFIX,wetv.vip
+
+  # Crunchyroll
+  - DOMAIN-SUFFIX,crunchyroll.com
+
+  # Hulu
+  - DOMAIN-SUFFIX,hulu.com
+
+  # Plex
+  - DOMAIN-SUFFIX,plex.tv
+  - DOMAIN-SUFFIX,plex.direct
+
+  # TikTok
+  - DOMAIN-SUFFIX,tiktok.com
+  - DOMAIN-SUFFIX,ttwstatic.com
+  - DOMAIN-SUFFIX,tik-tokapi.com
+  - DOMAIN-SUFFIX,byteoversea.com
+  - DOMAIN-SUFFIX,bytecdn.net
+  - DOMAIN-SUFFIX,ibytedtos.com
+
+  # Instagram
+  - DOMAIN-SUFFIX,instagram.com
+  - DOMAIN-SUFFIX,cdninstagram.com
+  - DOMAIN-SUFFIX,fbcdn.net
+
+  # Facebook
+  - DOMAIN-SUFFIX,facebook.com
+  - DOMAIN-SUFFIX,fbcdn.net
+  - DOMAIN-SUFFIX,fbcdn.com
+  - DOMAIN-SUFFIX,fb.com
